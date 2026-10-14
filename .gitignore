@@ -8,3 +8,6 @@ dist
 
 # local Claude Code settings (per-machine, not project source)
 .claude/
+
+# stray files awaiting deletion (not project content)
+/_to_be_deleted
