@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+# personal progress data (kept local/OneDrive only, never in git)
+/data
+
+# local Claude Code settings (per-machine, not project source)
+.claude/
+
+# stray files awaiting deletion (not project content)
+/_to_be_deleted
